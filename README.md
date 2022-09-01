@@ -1,16 +1,10 @@
-# 🚧 README em construção 🚧
+# Projeto MySQL Commands Two
 
-<!-- Olá, Tryber!
+Este projeto foi desenvolvido no modulo de BackEnd do curso da Trybe, e tinha como objetivo consolidar alguns conceitos iniciais de MySQL, como a criação e normalização de um banco de dados, assim como a consulta nesse banco. O dados utilizado para a criação do banco e para as consultas foi fornecido pela Trybe, sendo de minha autoria os comandos de criação do banco e consulta ao mesmo.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Técnologias usadas
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+</p>
